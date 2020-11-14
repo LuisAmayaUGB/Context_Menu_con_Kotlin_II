@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Context Menu con Kotlin II</string>
+    <string name="action_call">Opción 1</string>
+    <string name="action_sms">Opción II</string>
+
+
+</resources>
